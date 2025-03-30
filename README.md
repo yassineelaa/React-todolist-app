@@ -47,15 +47,12 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
    git clone https://github.com/vycash/Todo-app.git
    
 2. **Accédez au répertoire du projet** :
-  ```bash
   cd Application-Gestion-Taches
 
 3. **Installez les dépendances** :
-  ```bash
   npm install
 
 4. **Lancez le projet** :
-  ```bash
   npm run start
 
 
