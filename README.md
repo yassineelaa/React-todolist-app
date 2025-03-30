@@ -48,15 +48,15 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
    
 2. **Accédez au répertoire du projet** :
 
-cd Application-Gestion-Taches
+  cd Application-Gestion-Taches
 
 3. **Installez les dépendances** :
 
-npm install
+  npm install
 
 4. **Lancez le projet** :
 
-npm run start
+  npm run start
 
 
 
